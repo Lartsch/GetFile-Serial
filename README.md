@@ -5,4 +5,4 @@ There was a situation where I had an IoT device with a Linux OS on it. Using the
 
 Expect no fast transfers. Expect issues.
 
-No documentation intended. But you'll definitely need to adjust some parts using the cmd arguments or in the script itself (like the mount cmd for the remote device). Also, this script needs plink.exe (comes with PuTTY).
+No documentation intended (use -h for a little help). But you'll definitely need to adjust some parts using the cmd arguments or in the script itself (like the mount cmd for the remote device). Also, this script needs plink.exe in $PATH (comes with PuTTY).
