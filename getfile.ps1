@@ -1,3 +1,4 @@
+# mount --bind moddedfile originalfile
 # bind parameters
 [CmdletBinding()]
 param (
